@@ -18,6 +18,35 @@
 
 ---
 
+### 🚀 Featured Project
+
+> **[🍔 Food Delivery Web App](https://your-live-link.com)** &nbsp;—&nbsp; `React` · `Node.js` · `Express` · `MongoDB`
+>
+> Full-stack platform with user auth, cart system, order management & fully responsive UI.
+>
+> [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-live-link.com)&nbsp;[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arshgoyal-24/your-repo-link)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arshgoyal-24&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="145"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshgoyal-24&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="145"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arshgoyal-24&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</div>
+
+---
+
+<div align="center">
+  <samp>Building something cool? Let's connect → <a href="mailto:arshgoyal1111@gmail.com">arshgoyal1111@gmail.com</a></samp>
+</div>
+
+
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -61,31 +90,3 @@
 </p>
 
 ---
-
-### 🚀 Featured Project
-
-> **[🍔 Food Delivery Web App](https://your-live-link.com)** &nbsp;—&nbsp; `React` · `Node.js` · `Express` · `MongoDB`
->
-> Full-stack platform with user auth, cart system, order management & fully responsive UI.
->
-> [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-live-link.com)&nbsp;[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arshgoyal-24/your-repo-link)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshgoyal-24&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="145"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshgoyal-24&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="145"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arshgoyal-24&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</div>
-
----
-
-<div align="center">
-  <samp>Building something cool? Let's connect → <a href="mailto:arshgoyal1111@gmail.com">arshgoyal1111@gmail.com</a></samp>
-</div>
